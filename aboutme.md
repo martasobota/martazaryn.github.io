@@ -33,7 +33,7 @@ I find it inspiring to encourage newbies to programming, so if you have a questi
 (2016) Green Infrastructure Specialist – Arcadis and the Ministry of Environment  
 • Preparing report about after-effects of green roofs in cities on the basis of mapping and it’s analysis
 
-(2013-2016) Landscape Architect  
+(2011-2016) Landscape Architect  
 – RS Architektura Krajobrazu  
 • Landscape projects, inter alia airport center in Moscow, business centre in Shanghai, revitalization of Lodz City, city square in Opole, indor greenery at the shopping centre in Warsaw
 
