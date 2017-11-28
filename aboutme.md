@@ -15,11 +15,11 @@ I find it inspiring to encourage newbies to programming, so if you have a questi
 
 ### Experience
 
-(2017+) Sales&More  
-• Online Developer (Python + Flask + App Engine)
+(2017+) Online Developer - Sales&More  
+• (Python + Flask + App Engine)
 
-(2017) DaftCode  
-• Python Developer - Mobile Payments Team (Python + Flask)
+(2017) Python Developer - DaftCode  
+• Mobile Payments Team (Python + Flask)
 
 (2017) Back-end support - CampingShop.pl (e-store)  
 • Automatization of stock values updates, data conversion
@@ -33,11 +33,8 @@ I find it inspiring to encourage newbies to programming, so if you have a questi
 (2016) Green Infrastructure Specialist – Arcadis and the Ministry of Environment  
 • Preparing report about after-effects of green roofs in cities on the basis of mapping and it’s analysis
 
-(2011-2016) Landscape Architect  
-– RS Architektura Krajobrazu  
-• Landscape projects, inter alia airport center in Moscow, business centre in Shanghai, revitalization of Lodz City, city square in Opole, indor greenery at the shopping centre in Warsaw
-
-– R Pilch Pracownia Projektowa  
+(2011-2016) Landscape Architect – RS Architektura Krajobrazu, R Pilch Pracownia Projektowa  
+• Landscape projects, inter alia airport center in Moscow, business centre in Shanghai, revitalization of Lodz City, city square in Opole, indor greenery at the shopping centre in Warsaw  
 • Green roof projects in multifamiliar buildings, biodiverse, non-system projects in passive homes, revalorisation of old parks, project in Natura 2000 holiday resort under the lake, creating visualisations
 
 
@@ -67,8 +64,8 @@ Poznan University of Life Sciences
 
 • European Urban Green Infrastrucutre Conference in Vienna - lecture on mapping green roofs in Warsaw  
 • Passive Building, Green Building Conference - lecture on benefits and costs of green roofs on International Trades  
-of technologies for sustainable development POL-ECO-SYSTEM in Poznan
-• Article for European Federation of Green Roof Associations [ENG] - [Mapping Green Roofs In Warsaw – existing and potential](http://efb-greenroof.eu/coming-soon-mapping-green-roofs-in-warsaw/)
+of technologies for sustainable development POL-ECO-SYSTEM in Poznan  
+• Article for European Federation of Green Roof Associations [ENG] - [Mapping Green Roofs In Warsaw – existing and potential](http://efb-greenroof.eu/coming-soon-mapping-green-roofs-in-warsaw/)  
 • Article in Warunki Techniczne Magazine [PL] - [Noise and innovative elements of landscape architecture design in urban landscape](https://drive.google.com/file/d/0B5Jbnj-1ZmdeMGZzX0h3ZldFM2c/view)  
 • Article in Real Estate Appraisers Magazine of Greater Poland [PL] – [Sustainable development or economic efficience – selected problems of green roof investments in Poland](https://srmww.pl/images/biuletyny/2013/1_2_2013/16-24.pdf)  
 
@@ -78,6 +75,6 @@ of technologies for sustainable development POL-ECO-SYSTEM in Poznan
 • Mensa member  
 • Board member of Polish Green Roof Association (responsible for international communication)  
 • Representative of Poland in the European Federation of Green Roofs and Walls Associations (organization representing industry e.g. in the European Commision)  
-• Team leader and trainer in educational programs of creativity – Odyssey of the Mind and Destination Imagination; 1st award in Poland in 2006; attending an international tournament on the University of Tennessee in Knoxville, USA  
+• Team leader and trainer in educational programms of creativity – Odyssey of the Mind and Destination Imagination; 1st award in Poland in 2006; attending an international tournament on the University of Tennessee in Knoxville, USA  
 • Languages: English (B2), Spanish (A2)  
 • Interests: Tibetan culture, genealogy, French and Italian cuisine  
