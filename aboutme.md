@@ -1,22 +1,22 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Curriculum Vitae
 ---
 
-Hi! My name is Marta Żaryn 🍀 For three years I was a landscape architect. During preparation of one of my analysis, I got to know programming for the first time. I liked it so much, that I decided to rebrand. I am:
+Hi! My name is Marta Żaryn. For three years I was a landscape architect. During preparation of one of my analysis, I got to know programming for the first time. I liked it so much, that after some time of practice I decided to rebrand. I am:
 
 - Python Developer,
 - [DjangoGirlsWaw](https://www.facebook.com/DjangoGirlsWarsaw/) and [PyLight](https://www.facebook.com/pylightmeetup/) co-organiser
 - [Green Roofs Enthusiast](http://efb-greenroof.eu/coming-soon-mapping-green-roofs-in-warsaw/)
 
-I find it inspiring to encourage newbies to programming, so if you have a question or just want to say hi, send me an [e-mail](martazaryn@gmail.com).
+I find it inspiring to encourage newbies to programming, so if you have a question or just want to say hi, send me an [e-mail](mailto:martazaryn@gmail.com).
 
 
 ### Experience
 
 (2017+) Sales&More S.A.
-• Online Developer (Python + GCP)
+• Online Developer (Python + Google Cloud Platform)
 
 (2017) DaftCode
 • Python Developer (Mobile Payments Team)
