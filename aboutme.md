@@ -16,10 +16,10 @@ I find it inspiring to encourage newbies to programming, so if you have a questi
 ### Experience
 
 (2017+) Online Developer - Sales&More  
-• (Python + Flask + App Engine)
+• Python + Flask + App Engine
 
-(2017) Python Developer - DaftCode  
-• Mobile Payments Team (Python + Flask)
+(2017) Python Developer - DaftCode (Mobile Payments Team)  
+• Python + Flask
 
 (2017) Back-end support - CampingShop.pl (e-store)  
 • Automatization of stock values updates, data conversion
